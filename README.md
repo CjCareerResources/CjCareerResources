@@ -1,4 +1,4 @@
-Hi Everyone! 👋 I'm Chijioke, and welcome to my GitHub!
+Hi Everyone! 👋 I'm Kingsley, and welcome to my GitHub!
 I’m a passionate *Data Analytics professional* who loves diving deep into the world of data. Currently, I’m sharpening my skills in SQL, Excel, and Power BI, pushing the boundaries of what data can do. 
 By day, I teach *data analysis and analytics using Excel and Power BI. I also work as a *QA/QC Analyst* in the construction industry, where I ensure the integrity and reinforcement of structural elements are spot on, thanks to some solid statistics and quality control measures. Basically, I help keep things standing strong—literally! 💪
 
